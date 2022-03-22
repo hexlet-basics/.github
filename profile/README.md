@@ -6,7 +6,9 @@ We keep in mind two issues building our courses: the first language and the seco
 
 "The first language" is a learning path built for complete beginners in programming. PHP, JavaScript, Python, Java, Clang.
 
-By "second language" we mean Racket, Haskell, Go, Ruby, Swift, Kotlin, Clojure, TypeScript, Rust, Shell. You tend to learn these languages already knowing something else, so its curriculum differs from the first languages. We wrote PHP and JavaScript courses ourselves, yet we have already accepted dozens of pull requests on all sorts of issues: fixing typos, making mistakes in assignments, improving pitch, translating to English. The whole Python course was developed by a person from the community who became the maintainer of the language in our project. He has already accepted several pull requests.
+By "second language" we mean Racket, Haskell, Go, Ruby, Swift, Kotlin, Clojure, TypeScript, Rust, Shell. You tend to learn these languages already knowing something else, so its curriculum differs from the first languages. 
+
+We wrote PHP and JavaScript courses ourselves, yet we have already accepted dozens of pull requests on all sorts of issues: fixing typos, making mistakes in assignments, improving pitch, translating to English. The whole Python course was developed by a person from the community who became the maintainer of the language in our project. He has already accepted several pull requests.
 
 Links:
 
