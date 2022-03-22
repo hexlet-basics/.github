@@ -1,23 +1,22 @@
 # Code Basics
 
-Code Basics — сайд-проект Хекслета с открытым исходным кодом. Причем открыт как код сайта, так и весь контент. Его цель — дать основы языков программирования с практикой прямо в браузере. Сайт абсолютно бесплатен и останется таким навсегда. В перспективе планируется англоязычная версия. Она есть уже сейчас, но контент переведен лишь частями.
+Code Basics is an open-source Hexlet side-project. Both the website source code and the entire content are open. Its goal is to give the basics of programming languages with practice right in the browser. All of the courses are free and will remain so forever. An English-language edition awaits completion eventually. It's already available but only partially translated.
 
-Создавая сайт, мы хотели покрыть две ситуации: первый язык и второй язык.
+We keep in mind two issues building our courses: the first language and the second language.
 
-«Первый язык» — это программа обучения, построенная для полных новичков в программировании. PHP, JavaScript, Python, Java, Clang.
+"The first language" is a learning path built for complete beginners in programming. PHP, JavaScript, Python, Java, Clang.
 
-Ко вторым языкам мы относим Racket, Haskell, Go, Ruby, Swift, Kotlin, Clojure, TypeScript, Rust, Shell. Эти языки, обычно, изучают уже зная что-то другое, поэтому их программа отличается от первых языков.
-PHP и JavaScript мы написали самостоятельно, но уже приняли десятки пулреквестов на самые разные темы: исправление опечаток, ошибки в заданиях, улучшение подачи, переводы на английский. Python почти целиком был написан человеком из сообщества, который стал мейнтейнером этого языка на сайте. Он уже принял несколько пулреквестов.
+By "second language" we mean Racket, Haskell, Go, Ruby, Swift, Kotlin, Clojure, TypeScript, Rust, Shell. You tend to learn these languages already knowing something else, so its curriculum differs from the first languages. We wrote PHP and JavaScript courses ourselves, yet we have already accepted dozens of pull requests on all sorts of issues: fixing typos, making mistakes in assignments, improving pitch, translating to English. The whole Python course was developed by a person from the community who became the maintainer of the language in our project. He has already accepted several pull requests.
 
-Ссылки:
+Links:
 
-* [Как участвовать в жизни Хекслета](https://guides.hexlet.io/how-to-be-a-helpful-for-the-hexlet-community)
-* [#hexlet-volunteers](https://hexlet-ru.slack.com/archives/C0LN151B4) — канал в Slack сообщества Hexlet, где ведётся основное обсуждение
+* [How you can contribute to Hexlet](https://guides.hexlet.io/how-to-be-a-helpful-for-the-hexlet-community)
+* [#hexlet-volunteers](https://hexlet-ru.slack.com/archives/C0LN151B4) — main Hexlet's Slack-channel
 
-Задачи:
+Tasks:
 
-* Улучшение существующих уроков. Список уроков и языков есть на гитхабе.
-* Улучшения самого сайта. Задачи по улучшению появляются в issues.
-* Создание уроков для новых языков. Прямо сейчас делаются попытки добавить java и ruby.
-* Переводы уроков на английский язык.
-* Популяризация проекта среди населения =)
+* Improvement of current courses. A list of lessons and languages is available on GitHub.
+* Website enhancements. Current tasks appear in "issues".
+* Development of new language courses. Currently, we are working on Java and Ruby.
+* English translation.
+* Promotion of the project to the public =)
