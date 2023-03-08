@@ -13,7 +13,7 @@ We've created PHP and JavaScript courses ourselves, yet we already accepted doze
 Links:
 
 * [How you can contribute to Hexlet](https://guides.hexlet.io/how-to-be-a-helpful-for-the-hexlet-community)
-* [#hexlet-volunteers](https://hexlet-ru.slack.com/archives/C0LN151B4) — main Hexlet's Slack-channel
+* https://t.me/hexletcommunity/12 — Discuss the project
 
 Tasks:
 
