@@ -1,6 +1,6 @@
 # Code Basics
 
-Code Basics is an open-source Hexlet side-project. Both the website source code and the entire content are open. Its goal is to teach the basics of programming languages with in-browser exercises. All of the courses are free and will remain so forever. An English-language edition awaits completion. It's already available but only partially translated.
+Code Basics is an open-source project. Both the website source code and the entire content are open. Its goal is to teach the basics of programming languages with in-browser exercises. All of the courses are free and will remain so forever. An English-language edition awaits completion. It's already available but only partially translated.
 
 We kept in mind two issues building our courses: the first language and the second language.
 
@@ -10,10 +10,6 @@ By "second language" we mean Racket, Haskell, Go, Ruby, Swift, Kotlin, Clojure, 
 
 We've created PHP and JavaScript courses ourselves, yet we already accepted dozens of pull requests on all sorts of issues: typos, mistakes in assignments, pitch improvements, and English translations. The whole Python course was developed by a person from the community, who became the language maintainer in our project. He has already accepted several pull requests.
 
-Links:
-
-* [How you can contribute to Hexlet](https://guides.hexlet.io/how-to-be-a-helpful-for-the-hexlet-community)
-* https://t.me/hexletcommunity/12 — Discuss the project
 
 Tasks:
 
